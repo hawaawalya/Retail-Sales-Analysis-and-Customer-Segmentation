@@ -14,6 +14,14 @@ Data divisualisasikan menggunakan **Power BI**, menghasilkan insight yang mudah 
 - Memprediksi tren penjualan berdasarkan data historis.
 - Menyajikan hasil analisis dalam bentuk dashboard interaktif.
 
+## Framework:
+Business Understanding
+Data Understanding
+Data Preparation
+Analysis
+Insight
+Recommendation
+
 
 ## 🛠 Tools & Teknologi
 
