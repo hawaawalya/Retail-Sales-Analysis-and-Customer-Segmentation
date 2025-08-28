@@ -73,6 +73,7 @@ Recommendation
 ## 📄 Laporan Lengkap
 
 📥[Storytelling Analisys Sales Retail.pdf](https://github.com/user-attachments/files/22027353/Storytelling.Analisys.Sales.Retail.pdf)
+
 Berisi insight dan rekomendasi bisnis dari hasil analisis.
 
 
