@@ -1,4 +1,4 @@
-# 🛍 Online Retail II Data Analysis (SQL + Power BI)
+# 🛍 Online Retail Analysis 
 
 ## 📌 Deskripsi
 
@@ -44,34 +44,26 @@ Recommendation
 
 ## 🔍 Alur Analisis
 
-### 1️⃣ Data Cleaning (`01_data_cleaning.sql`)
+### 1️⃣ Data Cleaning 
 - Menghapus baris dengan `CustomerID` NULL
 - Menghapus baris dengan `Quantity <= 0` atau `UnitPrice <= 0`
 - Menambahkan kolom `TotalSales = Quantity * UnitPrice`
 - Mengubah `InvoiceDate` menjadi format TIMESTAMP
 
-### 2️⃣ Exploratory Data Analysis (`02_eda_analysis.sql`)
+### 2️⃣ Exploratory Data Analysis 
 - Jumlah transaksi per negara
 - Produk paling banyak dibeli
 - Korelasi antara Quantity, UnitPrice, dan TotalSales
 
-### 3️⃣ RFM Segmentation (`03_rfm_segmentation.sql`)
+### 3️⃣ RFM Segmentation 
 - Menghitung **Recency**: hari sejak transaksi terakhir
 - Menghitung **Frequency**: jumlah transaksi per pelanggan
 - Menghitung **Monetary**: total belanja per pelanggan
 - Skoring & segmentasi pelanggan
 
-### 4️⃣ Predictive Trend (`04_predictive_trend.sql`)
+### 4️⃣ Predictive Trend 
 - Mengelompokkan penjualan per bulan
 - Analisis tren historis untuk estimasi penjualan berikutnya
-
-
-
-## 🧱 Schema Star (Visualisasi)
-
-📎 File: [`retail_star_schema.drawio`](./Schema/retail_star_schema.drawio)
-
-![Schema Preview](./Schema/schema_preview.png) <!-- Tambahkan setelah upload -->
 
 
 ## 📸 Dashboard Preview
