@@ -72,7 +72,7 @@ Recommendation
 
 ## 📄 Laporan Lengkap
 
-📥 [`Online_Retail_Report.pdf`](./Report/Online_Retail_Report.pdf)
+📥[Storytelling Retail Analysis.pdf](https://github.com/user-attachments/files/22027106/Storytelling.Retail.Analysis.pdf)
 
 Berisi insight dan rekomendasi bisnis dari hasil analisis.
 
