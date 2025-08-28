@@ -76,9 +76,7 @@ Recommendation
 
 ## 📸 Dashboard Preview
 
-📎 Lihat lebih lengkap di: [Google Drive (Dashboard & Report)](https://drive.google.com/...)
-
-![Dashboard Screenshot](./Visualizations/dashboard_screenshot.png)
+C:\Users\HAWA AWALYA GHUFRON\OneDrive\Pictures\Screenshots
 
 
 ## 📄 Laporan Lengkap
