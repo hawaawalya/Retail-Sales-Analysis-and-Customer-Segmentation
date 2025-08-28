@@ -75,7 +75,7 @@ Recommendation
 
 
 ## 📸 Dashboard Preview
-![alt text ](https://github.com/hawaawalya/Retail-Sales-Analysis-and-Customer-Segmentation/blob/9d595bd3ca9dee1f3d5f7e396a56b40027b0911e/Cuplikan%20layar%202025-08-28%20172756.png?raw =true)
+<img width="1182" height="647" alt="Image" src="https://github.com/user-attachments/assets/3ac0a75e-6fbc-403d-9beb-b0d07b3cfcd5" />
 
 
 ## 📄 Laporan Lengkap
